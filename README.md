@@ -3,7 +3,7 @@
 
 ### Cybersecurity Internship – Batch B084
 
-**Intern:** Aryan Govekar 
+**Intern:** Shiv Wagh
 **Week:** 03  
 **Project Modules:** PM1 & PM2  
 **Topic:** PDF Password Cracking using John the Ripper and Networkwalks Tools
@@ -42,18 +42,10 @@ Uploaded the protected PDF to the Online HashCrack PDF Hash Extractor and genera
 
 The extracted hash was saved in a file named `hash1.txt`.
 
-📸 **Screenshot:**
-
-![Hash Extraction](screenshots/PM1/Hash-Extract.png)
-
 **Step 2: Configure Johnny**
 
 Opened Johnny, the graphical interface of John the Ripper, configured the John executable path, and loaded `hash1.txt` using the Open Password File option.
 
-📸 **Screenshot:**
-
-
-![Johnny Configuration](screenshots/PM1/JTR-PM1-Setup.png)
 **Step 3: Perform Password Cracking**
 
 Started the password-cracking process using Johnny.
@@ -71,7 +63,7 @@ The tool successfully recovered the password.
 
 📸 **Screenshot:**
 
-![JTR Password Cracking Result](screenshots/PM1/JTR-PM1.png)
+![JTR Password Cracking Result](JTR-PM1.png)
 
 **Step 4: Verify the Password**
 
@@ -79,7 +71,7 @@ Opened the protected PDF using the recovered password to confirm that the passwo
 
 📸 **Screenshot:**
 
-![Unlocked PDF](screenshots/PM1/W3-PM1-file-unlocked.png)
+![Unlocked PDF](unlocked.png)
 
 ### ✅ PM1 Result
 
@@ -106,10 +98,6 @@ Uploaded the protected PDF to the Networkwalks Hash Calculator.
 
 The tool extracted the PDF password hash in `$pdf$...` format.
 
-📸 **Screenshot:**
-
-![Hash Calculator](screenshots/PM2/Hash-Calculator.png)
-
 **Step 2: Perform Dictionary Attack**
 
 Copied the extracted hash and pasted it into the Networkwalks Password Cracker.
@@ -127,7 +115,7 @@ The tool successfully recovered the password.
 
 📸 **Screenshot:**
 
-![Password Cracker Result](screenshots/PM2/Cracked.png)
+![Password Cracker Result](Cracked.png)
 
 **Step 3: Verify the Password**
 
@@ -135,7 +123,7 @@ Used the recovered password to open the protected PDF and confirmed that the fil
 
 📸 **Screenshot:**
 
-![Unlocked PDF](screenshots/PM2/W3-PM2-File-Unlocked.png)
+![Unlocked PDF](PM2Unlocked.PNG)
 
 ### ✅ PM2 Result
 
