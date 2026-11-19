@@ -71,7 +71,7 @@ Opened the protected PDF using the recovered password to confirm that the passwo
 
 📸 **Screenshot:**
 
-![Unlocked PDF](unlocked.png)
+![Unlocked PDF](unlocked.PNG)
 
 ### ✅ PM1 Result
 
@@ -115,7 +115,7 @@ The tool successfully recovered the password.
 
 📸 **Screenshot:**
 
-![Password Cracker Result](Cracked.png)
+![Password Cracker Result](cracked.png)
 
 **Step 3: Verify the Password**
 
