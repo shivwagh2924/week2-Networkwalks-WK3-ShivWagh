@@ -115,7 +115,7 @@ The tool successfully recovered the password.
 
 📸 **Screenshot:**
 
-![Password Cracker Result](cracked.png)
+![Password Cracker Result](cracked.PNG)
 
 **Step 3: Verify the Password**
 
